@@ -14,6 +14,7 @@ namespace PList_Contact
         public ListaContato()
         {
             Head = Tail = null;
+            //
         }
 
         public void Ordenar()
